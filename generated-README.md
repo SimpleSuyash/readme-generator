@@ -1,10 +1,10 @@
 ![ISC licence badge](https://img.shields.io/badge/License-ISC-blue.svg)
   
-# Readme Generator 
+#  Readme Generator 
 
 ## Description
 
-it automatically generates the readme.md file
+ It automatically generates a readme file.
 
 ## Table of Contents
 
@@ -17,11 +17,11 @@ it automatically generates the readme.md file
 
 ## Installation
 
-    install and follow the inquirer
+     npm init -y npm i inquirer@8.2.4
 
 ## Usage
 
-to create a readme file dyanamically
+To dynamically create a readme template
 
 ## Contributing
 
