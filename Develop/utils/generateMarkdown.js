@@ -49,9 +49,8 @@ function renderLicenceLink(licence) {
 // Returns the license section of README
 // If there is no license, return an empty string
 function renderLicenceSection(licence) {
-    console.log(`licence link: ${renderLicenceLink(licence)}`);
-  let licenceSection ="";
-  if(licence){
+    let licenceSection ="";
+    if(licence){
     licenceSection = `## Licence
 
 This application is covered under ***${licence}*** licence. For more information about the licensing, please click the following link.     
