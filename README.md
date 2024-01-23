@@ -70,9 +70,3 @@ Screenshot showing generated README.md file
 
 
 
-
-
-
-
-
-
