@@ -1,6 +1,6 @@
-![ISC licence badge](https://img.shields.io/badge/License-ISC-blue.svg)
+![MIT licence badge](https://img.shields.io/badge/License-MIT-yellow.svg)
   
-#  Readme Generator 
+# Readme Generator 
 
 ## Description
 
@@ -17,15 +17,15 @@
 
 ## Installation
 
-     npm init -y npm i inquirer@8.2.4
+    npm init -y   npm i inquirer@8.2.4
 
 ## Usage
 
-To dynamically create a readme template
+ To dynamically create a readme file.
 
 ## Contributing
 
-nothing
+ nothing
 
 ## Test
 
@@ -33,13 +33,13 @@ nothing
 
 ## Licence
 
-This application is covered under ***ISC*** licence. For more information about the licensing, please click the following link.     
-<https://opensource.org/licenses/ISC>
+This application is covered under ***MIT*** licence. For more information about the licensing, please click the following link.     
+<https://opensource.org/licenses/MIT>
   
 
 ## Questions
 
 For any queries, please contact me on:
-* GitHub: <https://github.com/undefined>
+* GitHub: <https://github.com/SimpleSuyash>
 * Email: <suyash@y7mail.com>
     

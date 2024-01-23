@@ -65,7 +65,7 @@ Screenshot showing generated README.md file
 
 ## Demo
 <video controls>
-    <source src="./assets/video/demo.mp4" type="video/mp4">
+    <source src="./assets/video/demo-updated.mp4" type="video/mp4">
 </video>
 
 
