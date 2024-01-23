@@ -1,10 +1,10 @@
 ![MIT licence badge](https://img.shields.io/badge/License-MIT-yellow.svg)
   
-# Readme Generator 
+#  Readme Generator 
 
 ## Description
 
-It automatically generates a readme file.
+ It automatically generates a readme file.
 
 ## Table of Contents
 
@@ -17,15 +17,15 @@ It automatically generates a readme file.
 
 ## Installation
 
-    npm init -y   npm i inquirer@8.2.4
+     npm init -y   npm i inquirer@8.2.4
 
 ## Usage
 
-To dynamically create a readme file.
+ To dynamically create a readme file.
 
 ## Contributing
 
-nothing
+  nothing
 
 ## Test
 
