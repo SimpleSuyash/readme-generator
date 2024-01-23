@@ -16,7 +16,8 @@ function writeToFile(fileName, data){
             console.log(err);
         }
         else{
-            console.log(`./${fileName}.md has been created`);
+            const filePath= fs.realpathSync("./");
+            console.log(`${filePath}\\${fileName}.md has been created.`);
         }
     });
   }

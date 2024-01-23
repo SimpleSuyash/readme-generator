@@ -4,7 +4,7 @@
 
 ## Description
 
- It automatically generates a readme file.
+It automatically generates a readme file.
 
 ## Table of Contents
 
@@ -21,11 +21,11 @@
 
 ## Usage
 
- To dynamically create a readme file.
+To dynamically create a readme file.
 
 ## Contributing
 
- nothing
+nothing
 
 ## Test
 
