@@ -64,8 +64,8 @@ Screenshot showing generated README.md file
 ![generated README.md file](./assets/images/readme.png)
 
 ## Demo
-<video controls>
-    <source src="./assets/video/demo-updated.mp4" type="video/mp4" autoplay muted loop>
+<video controls autoplay muted loop>
+    <source src="./assets/video/demo-updated.mp4" type="video/mp4">
 </video>
 
 
