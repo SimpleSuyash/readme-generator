@@ -51,7 +51,7 @@ function renderLicenceLink(licence) {
 function renderLicenceSection(licence) {
     let licenceSection ="";
     if(licence){
-    licenceSection = `## Licence
+        licenceSection = `## Licence
 
 This application is covered under ***${licence}*** licence. For more information about the licensing, please click the following link.     
 <${renderLicenceLink(licence)}>

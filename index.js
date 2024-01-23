@@ -29,16 +29,16 @@ function init() {
         .prompt(questions)
         .then(
             response=>{
-            console.log(response);
-            writeToFile("generated-README", renderTemplate(response) );
+                console.log(response);
+                writeToFile("generated-README", renderTemplate(response) );
             }
         )
         .catch((error) => {
             if (error.isTtyError) {
-            console.log("Prompt couldn't be rendered in the current environment");
+                console.log("Prompt couldn't be rendered in the current environment");
             } else {
-            console.log(error);
-            console.log("Something else went wrong");
+                console.log(error);
+                console.log("Something else went wrong");
             }
         });
 }
